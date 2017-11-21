@@ -1,0 +1,9 @@
+{
+  "name": "codekatas_react",
+  "version": "1.0.0",
+  "description": "React Practice",
+  "main": "lib/server.js",
+  "repository": "https://github.com/ntaylor95/codekatas_react",
+  "author": "Nicole Taylor",
+  "license": "MIT"
+}
